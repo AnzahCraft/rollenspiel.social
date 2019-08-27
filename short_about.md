@@ -1,0 +1,2 @@
+rollenspiel.social ist eine **kleine** Mastodon-Instanz für und von der Rollenspiel-Community AnzahCraft. Wir bieten einen platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr.		
+Die primären Instanzensprachen sind Deutsch.
