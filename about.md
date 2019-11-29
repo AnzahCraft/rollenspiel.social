@@ -1,5 +1,4 @@
 ## Richtlinien
-file:///D:/Documents/GitHub/about/blocked_instances.md
 Auf rollenspiel.social ist unsere Hauptrichtlinie:  
 → "Seid nett zueinander!"
 
@@ -55,8 +54,8 @@ social.tchncs.de glaubt nicht an Zensur. Fediverse ist ein Netzwerkdienst und di
 
 Für technische Probleme verwende die Kontaktinformationen des Administrators, die unter "Staff" aufgeführt sind:
 
-*   Wenn du ein Benutzer auf rollenspiel.social bist, kannst du die Funktion "Missbrauch melden" für den Beitrag nutzen den du melden möchtest
-*   Wenn du kein Benutzer auf rollenspiel.social bist, oder wenn du ein Administrator eines anderen Servers bist, der eine Missbrauchsmeldung über einen unserer Benutzer erhalten hat, besprechen möchtest, verwende bitte die unter "Kontakt" aufgeführte Administrator-E-Mail
+* Wenn du ein Benutzer auf rollenspiel.social bist, kannst du die Funktion "Missbrauch melden" für den Beitrag nutzen den du melden möchtest
+* Wenn du kein Benutzer auf rollenspiel.social bist, oder wenn du ein Administrator eines anderen Servers bist, der eine Missbrauchsmeldung über einen unserer Benutzer erhalten hat, besprechen möchtest, verwende bitte die unter "Kontakt" aufgeführte Administrator-E-Mail
 
 **Aus Datenschutzgründen werden wir keine Missbrauchsmeldungen mit dritten und/oder in öffentlichen Kanälen diskutieren.**
 
@@ -69,7 +68,9 @@ Für technische Probleme verwende die Kontaktinformationen des Administrators, d
 -----
 ## Funding
 
-Unsere Server und die dazugehörigen Server sind Spenden finanzert und werden durch unsere erstaunliche Community ermöglicht. ![Love](https://rollenspiel.social/system/custom_emojis/images/000/000/011/original/5f9d3d83159c62a1.png?1566511996)
+Unsere Webdienste und die dazugehörigen Server sind Spenden finanziert und werden durch unsere erstaunliche Community ermöglicht. ![Love](https://rollenspiel.social/system/custom_emojis/images/000/000/011/original/5f9d3d83159c62a1.png?1566511996)
+
+Wie ihr uns helfen könnt findet ihr auf unserer [Unterstützungs-seite](https://anzahcraft.de/donate/).
 
 -----
 ## Datenschutz
