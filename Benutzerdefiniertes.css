@@ -1,0 +1,36 @@
+.compose-panel .compose-form {
+	background-image: url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+.page-header {
+	background-image: url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+.columns-area__panels__pane.columns-area__panels__pane--compositional,
+.columns-area__panels__pane.columns-area__panels__pane--start.columns-area__panels__pane--navigational,
+.public-layout .footer,
+.tabs-bar__wrapper {
+	background: rgba(0, 0, 0, 0.7);
+}
+.public-layout .grid-4 .column-2{
+	background:	#282c37;
+	border-radius: 4px;
+}
+.app-body,
+.public-layout {
+	background-image: url(/system/site_uploads/files/000/000/002/original/Practice_by_Job_Menting.jpg?1575061207);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.public-layout .footer .grid {
+	padding-left: 5px;
+}
