@@ -3,6 +3,7 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: bottom;
+	margin-bottom: 5px;
 }
 
 .page-header {
@@ -12,10 +13,10 @@
 	background-position: right bottom;
 }
 
-.columns-area__panels__pane.columns-area__panels__pane--compositional,
-.columns-area__panels__pane.columns-area__panels__pane--start.columns-area__panels__pane--navigational,
+/*.columns-area__panels__pane--compositional .columns-area__panels__pane__inner,*/
+.columns-area__panels__pane--navigational .columns-area__panels__pane__inner .navigation-panel,
 .public-layout .footer,
-.tabs-bar__wrapper {
+.columns-area__panels__pane__inner .getting-started__footer {
 	background: rgba(0, 0, 0, 0.7);
 }
 .public-layout .grid-4 .column-2{
@@ -23,7 +24,10 @@
 	border-radius: 4px;
 }
 .app-body,
-.public-layout {
+.public-layout,
+.tabs-bar__wrapper,
+.columns-area__panels__pane--navigational .columns-area__panels__pane__inner,
+.columns-area__panels__pane--navigational .columns-area__panels__pane__inner .flex-spacer {
 	background-image: url(/system/site_uploads/files/000/000/002/original/Practice_by_Job_Menting.jpg?1575061207);
 	background-size: cover;
 	background-repeat: no-repeat;
