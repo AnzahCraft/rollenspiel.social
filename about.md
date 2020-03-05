@@ -71,11 +71,3 @@ Für technische Probleme verwende die Kontaktinformationen des Administrators, d
 Unsere Webdienste und die dazugehörigen Server sind Spenden finanziert und werden durch unsere erstaunliche Community ermöglicht. ![Love](https://rollenspiel.social/system/custom_emojis/images/000/000/011/original/5f9d3d83159c62a1.png?1566511996)
 
 Wie ihr uns helfen könnt findet ihr auf unserer [Unterstützungs-seite](https://anzahcraft.de/donate/).
-
------
-## Datenschutz
-
-Bitte denke daran, dass nichts im Internet wirklich privat ist und betrachte alles was gesagt wird, als für immer gespeichert. Mastodon bietet keine sichere Möglichkeit um über sensible Daten zu kommunizieren.
-
-rollenspiel.social folgt dem Leitfaden von AnzahCraft und verwendet keine Werbe- oder externe Analysesoftware und verkauft Ihre Daten auch nicht.  
-Siehe Finanzierung.
