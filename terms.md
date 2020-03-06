@@ -104,7 +104,7 @@ Der Bayerische Landesbeauftragte für den Datenschutz
 Wagmüllerstraße 18  
 80538 München  
 https://www.datenschutz-bayern.de  
-poststelle@atenschutz-bayern.de
+poststelle@datenschutz-bayern.de
 
 Stand der hier bereitgestellten Informationen: 05.03.2020
 
