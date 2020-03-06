@@ -1,113 +1,93 @@
-Hier gelangen Sie zu den [Nutzungsbedingungen](about/more).
+# Datenschutzinformation für die Mastodon-Instanz rollenspiel.social
 
-Hier gelangen Sie zum [Impressum](#Impressum).
+Wir freuen uns, dass Du unsere Mastodon-Instanz gefunden hast und nutzen möchtest. Im Folgenden informieren wir Dich gemäß der seit dem 25\. Mai 2018 geltenden Datenschutzgrundverordnung der EU (DSGVO) über unseren Umgang mit Deinen personenbezogenen Daten bei der Nutzungs dieser Instanz und welche Rechte Du gegenüber uns hast.
 
-Hier gelangen Sie zu den [Datenschutzhinweisen](#Datenschutzhinweise).
+## Verantwortlicher
 
-<font size="+1">**Impressum**</font>
-
-**Angaben gemäß § 5 TMG**
-
+Verantwortlich für die Verarbeitung von personenbezogenen Daten dieser Mastodon-Instanz ist:  
 Daniel Buck  
-Kirchenstr. 2  
-92693 Eslarn  
 Telefon: +49 156 78563777  
-E-Mail: webmaster@anzahcraft.de
+E-Mail: [webmaster@anzahcraft.de](mailto:webmaster@anzahcraft.de)
 
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
+## Verarbeitung verschiedener Arten von personenbezogenen Daten
 
-Daniel Buck  
-Kirchenstr. 2  
-92693 Eslarn
+Bei der Nutzung unserer Mastodon-Instanz werden verschiedene Arten von personenbezogen Daten unterschiedlich verarbeitet. Im Folgenden informieren wir Dich darüber, welche Verarbeitungen es gibt, welche personenbezogenen Daten jeweils betroffen sind, was der Zweck der jeweiligen Verarbeitung ist, wie lange die Daten jeweils gespeichert werden und noch einiges mehr.
 
-**Haftung für Inhalte**
+### Aufruf der Webanwendung und Browser-Zugriffsdaten
 
-Als Anbieter bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte auf dieser Mastodon-Instanz nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden ich umgehend entsprechende Schritte ergreifen.
+**Zweck:** Wir stellen die Webanwendung zur Nutzung zur Verfügung, welche u.a. bestimmte Daten, z.B. Sprachinformationen, die der Browser mitsendet, zur passenden Darstellung nutzt.  
+**Personenbezogene Daten:** Übertragen werden u.a., je nach verwendetem Browser und dessen Einstellung: Datum und Uhrzeit des Zugriffes, ggf. Quelle/Verweis, von welcher Seite Du auf unsere jeweilige gelangst, verwendeter Browser, verwendetes Betriebssystem, Sprachinformation, Größe des Browserfensters, verwendete IP-Adresse.  
+**Speicherdauer:** Diese Daten werden von uns nicht gespeichert, sondern nur bei Deinem Aufruf unserer Webanwendung verwendet.  
+**Rechtsgrundlage:** Potenziellen Nutzern eine Übersicht über die Webanwendung zu ermöglichen und registrierten Nutzerinnen und Nutzern die volle Anwendungsfunktionalität zur Verfügung zu stellen, gem. Art. 6 Abs. 1 lit. b).  
+**Empfänger:** Deine Browser-Zugriffsdaten können nur wir als Betreiber und ggf. unser Provider einsehen.  
+**Drittlandtransfer:** Die Daten werden nicht in einem Drittland gespeichert.
 
-**Haftung für Links**
+### Registrierung und Account-Daten
 
-Diese Instanz enthält Links zu externen Webseiten, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die verlinkten Inhalte ist stets die jeweilige Anbieterin oder Betreiberin der Seiten verantwortlich. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich umgehend die gebotenen Schritte ergreifen.
+**Zweck:** Die Accountdaten werden für die sichere Anmeldung der Nutzer, der späteren Nutzung der Anwendung und zur Verifizierung Deiner Identität benötigt.  
+**Personenbezogene Daten:** Benutzername, E-Mail-Adresse und Passwort.  
+**Speicherdauer:** Bis zur Löschung Deines Accounts. Das Löschen des Accounts erzwingt die Löschung aller Beiträge und Interaktionen.  
+**Rechtsgrundlage:** Zustandekommen des Nutzungsverhältnisses zwischen uns als Betreiber der Anwendung und Dir als Nutzerin bzw. Nutzer des Mastodon-Kontos, gemäß Art. 6 Abs. 1 lit. b) DSGVO.  
+**Empfänger:** Deine Account-Daten können nur wir und, falls vorhanden, unser Provider einsehen.  
+**Weitergabe an Dritte:** Die Anmeldedaten werden nicht an Dritte weitergegeben, außer ein Gesetz zwingt uns dazu.  
+**Drittlandtransfer:** E-Mail-Adresse und Passwort werden von uns nicht in einem Drittland außerhalb der EU gespeichert. Der Benutzername ist weltweit öffentlich.
 
-**Urheberrecht**
+### Optionale Profilinformationen
 
-Die hier durch die Mastodon-User oder mich erstellten Inhalte unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen in der Regel der schriftlichen Zustimmung der jeweiligen Autorin bzw. Erstellerin. Downloads und Kopien sind grundsätzlich nur für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Sie auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich hinsichtlich derartiger Inhalte umgehend die notwendigen Schritte ergreifen.
+**Zweck:** Freiwilliges weltweites Veröffentlichen weiterer Informationen über Dich.  
+**Personenbezogene Daten:** Anzeigename, Biographie (Über mich), Profilinformationsfelder, Profilbild und Titelbild, wem Du folgst und wer Dir folgt.  
+**Speicherdauer:** Bis zur Löschung durch Dich oder des Accounts.  
+**Rechtsgrundlage:** Die Einwilligung durch freiwillige Angabe der Daten gem. Art. 6 Abs. 1 lit. a) DSGVO.  
+**Empfänger:** Deine Profilinformationen Anzeigename, Biographie, Profilbild und Titelbild sind immer öffentlich. Andere Informationen, wie Personen, die Dir folgen oder denen Du folgst, können in Ihrer Sichtbarkeit von dir eingeschränkt werden.  
+**Weitergabe an Dritte:** keine.  
+**Drittlandtransfer:** Alle angegebenen Profilinformationen sind weltweit öffentlich abrufbar. Sie erscheinen durch die Förderation ggf. auch auf Servern in Drittländern und unterliegen dort der lokalen Rechtsprechung.
 
-<font size="+1">**Datenschutzhinweise**</font>
+### Beiträge und Interaktionen
 
-Diese Datenschutzhinweise klären Sie darüber auf, welche Informationen bei der Nutzung der Mastodon-Instanz verarbeitet werden und welche Rechte Sie gegenüber mir, dem Betreiber der Instanz, haben. Alle hier dargestellten Ausführungen und die Aufklärung über Ihre Rechte richten sich nach der seit dem 25.05.2018 geltenden europäischen Datenschutz-Grundverordnung (DSGVO).
+**Zweck:** Veröffentlichen von eigenen Microblog-Posts (Toots) und Veröffentlichen (Boosten) der Posts anderer, wenn gewünscht, ggf. sogar weltweit.  
+**Personenbezogene Daten:** Alle Deine Beiträge, einschließlich Username, der Anhänge und anderer Interaktionen (wie z.B. Favoriten, Folgen und Reblogs), inkl. aller Metadaten, wie Zeitstempel.  
+**Speicherdauer:** Bis zur Löschung durch Dich oder des Accounts.  
+**Rechtsgrundlage:** Die Einwilligung durch Veröffentlichen von Beiträgen gem. Art. 6 Abs. 1 lit. a) DSGVO. Beim Boosten der Toots anderer bist Du als Nutzerin bzw. Nutzer des Kontos dafür verantwortlich, dass deren Datenschutzrechte eingehalten werden.  
+**Empfänger:** Deine Beiträge und Interaktionen sind prinzipiell öffentlich, können aber durch die von Dir gewählten Optionen in der Sichtbarkeit bzw. Förderierung eingeschränkt werden. Die Optionen sind: öffentlich, öffentlich, aber nicht in der öffentlichen Timeline gelistet, nur für Follower oder nur an erwähnte User.  
+**Weitergabe an Dritte:** "Prinzipiell öffentlich" bedeutet, dass diese Inhalte weltweit an andere Server förderiert werden, deren Datenschutz und Verarbeitung dieser Daten wir nicht kontrollieren können. Microblogging ist prinzipiell öffentlich, für persönliche nicht-öffentliche Kommunikation müssen andere Mittel genutzt werden.  
+**Drittlandtransfer:** Alle geschrieben Beiträge sind weltweit öffentlich abrufbar.
 
-**1\. Datenverarbeitung bei Aufruf der Startseite, Registrierungsmaske und Nutzung im Allgemeinen**
+### Meldung von Inhalten und Moderation
 
-Sobald Sie die Startseite von Legal.Social aufrufen, um sich zu registrieren oder auch während der Nutzung im Allgemeinen, wird eine Verbindung zum Webserver aufgebaut, auf dem diese Instanz betrieben wird. Um dem Browser Ihres Endgeräts die Seite anzeigen zu können, werden dabei entsprechend dem TCP/IP Protokoll gewisse Daten verarbeitet. Dazu gehören:
+**Zweck:** Wir moderieren gemeldete Inhalte zur Einhaltung der Nutzungsbedingungen und der geltenden Gesetze.  
+**Personenbezogene Daten:** Alle Inhalte, Accountdaten und weiteren Angaben von Dir  
+**Speicherdauer:** Gemeldete Beiträge werden beim Melden markiert, bis ein Moderator über das weitere Vorgehen entscheidet. Bei Verstößen gegen Gesetze oder Nutzungsbedingungen werden Beiträge zeitnah gelöscht. Bei gesetzlicher Verpflichtung müssen die obigen Daten u.U. als Beweismittel gesichert und an die Behörden übergeben werden.  
+**Rechtsgrundlage:** Je nach Vorkommen geltende Gesetze einzuhalten gem. Art. 6 Abs. 1 lit. c) oder das berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f), die Nutzungsbedingungen einzuhalten.  
+**Empfänger:** Wir als Betreiber inkl. ggf. benannter Moderatoren  
+**Weitergabe an Dritte:** Bei Gesetzesverstößen, die meldepflichtig sind, werden alle benötigten Beweismittel an die Ermittlungsbehörden gegeben. Ansonsten werden keine Daten Dritten zugänglich gemacht.  
+**Drittlandtransfer:** Keiner
 
-*   die IP-Adresse Ihres Internetanschlusses,
-*   die Betriebssystemversion Ihres PCs, Tablets oder Smartphones,
-*   die Displayauflösung Ihres Geräts,
-*   der Standort Ihres Geräts,
-*   der von Ihnen genutzte Internetbrowser sowie
-*   der Zeitpunkt Ihres Zugriffs auf die Webseite.
+### Cookies
 
-Diese technischen Daten werden verarbeitet, damit diese Webseite von dem Webserver an Ihren Endgerät übermittelt und von Ihrem Browser richtig verarbeitet und angezeigt werden kann. Nach jedem Seitenbesuch werden einige dieser Daten in Logs des Webhosters gespeichert. Mein Webhosters verarbeitet diese Daten zu Zwecken der Wartung und Sicherheit des Servers, löscht IP-Adressen aber nach spätestens 14 Tagen, in der Regel früher. Der Server dieser Instanz wird von einem professionellen Hoster mit Servern in der Europäischen Union betrieben. Er unterliegt als Auftragsverarbeiter meinen Anweisungen und hat sich vertraglich zur Einhaltung technischer und organisatorischer Sicherungsmaßnahmen verpflichtet.
+**Zweck:** Wir verwenden Cookies, um eingeloggt zu bleiben und Deine Einstellungen für zukünftige Besuche zu speichern.  
+**Personenbezogene Daten:** Ein Session-Cookie, der in Deinem Webbrowser gespeichert wird.  
+**Speicherdauer:** Bis zum Ende der Browsersession  
+**Rechtsgrundlage:** Technische Erfüllung des Nutzungsverhältnisses zwischen uns als Betreiber der Anwendung und Dir als Nutzerin bzw. Nutzer des Mastodon-Kontos, gemäß Art. 6 Abs. 1 lit. b) DSGVO.  
+**Empfänger:** Nur Du  
+**Weitergabe an Dritte:** Keine  
+**Drittlandtransfer:** Keiner
 
-Die Datenverarbeitung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) DSGVO im erforderlichen Umfang, um Ihnen den Aufruf der Startseite sowie die Registrierung im Rahmen des Nutzungsverhältnisses zwischen mir (dem Betreiber der Instanz) und Ihnen (der Betreiberin des Mastodon-Kontos) zu ermöglichen sowie zur Erfüllung der Verpflichtung zur Ergreifung technisch-organisatorischer Schutzmaßnahmen.
+## Deine Rechte
 
-**2\. Datenverarbeitung bei der Registrierung**
+Das Datenschutzrecht gewährt Dir hinsichtlich der Verarbeitung Deiner personenbezogenen Daten folgende Rechte, deren genauen Wortlaut Du in den verlinkten Artikeln der DSGVO nachlesen kannst:
 
-Im Rahmen der Registrierung verarbeite ich grundlegende Kontoinformationen: Dazu zählen Benutzername, E-Mail-Adresse und Passwort. Sie können auch zusätzliche Profilinformationen wie etwa einen Anzeigenamen oder eine Biografie eingeben und ein Profilbild oder ein Headerbild hochladen. Der Benutzername, der Anzeigename, die Biografie, das Profilbild und das Headerbild werden dann immer öffentlich angezeigt.
+*   Auskunftsrecht gemäß [Art. 15 DSGVO](https://dsgvo-gesetz.de/art-15-dsgvo/)
+*   Recht auf Berichtigung gemäß [Art. 16 DSGVO](https://dsgvo-gesetz.de/art-16-dsgvo/)
+*   Recht auf Löschung gemäß [Art. 17 DSGVO](https://dsgvo-gesetz.de/art-17-dsgvo/)
+*   Recht auf Einschränkung der Verarbeitung gemäß [Art. 18 DSGVO](https://dsgvo-gesetz.de/art-18-dsgvo/)
+*   Recht auf Unterrichtung gemäß [Art. 19 DSGVO](https://dsgvo-gesetz.de/art-19-dsgvo/)
+*   Recht auf Datenübertragbarkeit gemäß [Art. 20 DSGVO](https://dsgvo-gesetz.de/art-20-dsgvo/)
+*   Recht auf Widerruf erteilter Einwilligungen gemäß [Art. 7 Abs. 3 DSGVO](https://dsgvo-gesetz.de/art-7-dsgvo/)
+*   Wiederspruchsrecht gemäß [Art. 21 DSGVO](https://dsgvo-gesetz.de/art-21-dsgvo/)
+*   Recht auf Beschwerde gemäß [Art. 77 DSGVO](https://dsgvo-gesetz.de/art-77-dsgvo/)
 
-Die Datenverarbeitung im Rahmen der Registrierung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) DSGVO im erforderlichen Umfang, um Ihnen den Aufruf die Registrierung im Rahmen des Nutzungsverhältnisses zu ermöglichen.
+Bitte beachte, dass die Wahrnehmung Deines Rechts auf Löschung, insbesondere Deiner Anmeldedaten, bedeuten kann, dass Du diese Mastodon-Instanz nicht mehr nutzen kannst.
 
-**3\. Datenverarbeitung bei der Nutzung Ihres Mastodon-Kontos**
+## Aktualität der Datenschutzinformation
 
-*   _Beiträge, Folge- und andere öffentliche Informationen:_ Die Liste der Leute, denen Sie folgen, wird öffentlich gezeigt, das gleiche gilt für Ihre Folgenden (Follower). Sobald Sie eine Nachricht übermitteln, wird das Datum und die Uhrzeit gemeinsam mit der Information, welche Anwendung Sie dafür verwendet haben, gespeichert. Nachrichten können Medienanhänge enthalten, etwa Bilder und Videos. Öffentliche und ungelistete Beiträge sind öffentlich verfügbar. Sobald Sie einen Beitrag auf Ihrem Profil anpinnen, ist dieser ebenfalls öffentlich verfügbar. Ihre Beiträge werden an Ihre Folgenden ausgeliefert, was in manchen Fällen bedeutet, dass sie an andere Server(andere Instanzen) ausgeliefert werden und dort Kopien gespeichert werden. Sobald Sie Beiträge löschen, wird dies ebenso an Ihre Follower ausgeliefert. Die Handlungen des Teilens und Favorisieren eines anderen Beitrages sind immer öffentlich.
-*   _Direkte und "Nur Folgende"-Beiträge:_ Alle Beiträge werden auf dem Server gespeichert und verarbeitet. "Nur Folgende"-Beiträge werden an Ihre Folgenden und an Benutzerinnen, die Sie erwähnen, ausgeliefert, direkte Beiträge ("Direktnachrichten") nur an in ihnen erwähnte Benutzerinnen. Direktnachrichten sind allerdings nicht Ende-zu-Ende verschlüsselt und daher auch durch mich sowie ggf. den Serverbetreibenden der Instanz der Empfängerin einsehbar. Ich kann nur sicherstellen, dass Unbefugte keinen Zugang zu den auf meiner Instanz gespeicherten Beiträge haben, jedoch könnten andere Server/Instanzen dabei scheitern. Deswegen ist es wichtig, die Instanz, zu denen Ihre Folgenden gehören, zu überprüfen. Sie können auch eine Option in den Einstellungen umschalten, um neue Folgende manuell anzunehmen oder abzuweisen. Bitte beachten Sie, dass die Betreibende des Server und jedes empfangenden Servers solche Nachrichten anschauen könnten und dass Empfängerinnen von diesen eine Bildschirmkopie erstellen könnten, sie kopieren oder anderweitig weiterverteilen könnten. Teilen Sie daher keine sensiblen Informationen über Mastodon.
-*   _Internet Protocol-Adressen (IP-Adressen) und andere Metadaten:_ Sobald Sie sich anmelden, erfasst Mastodon sowohl die IP-Adresse, von der aus Sie sich anmelden, als auch den Namen Ihrer Browseranwendung. Alle angemeldeten Sitzungen (Sessions) sind für Ihre Überprüfung und Widerruf in den Einstellungen verfügbar. Die letzte verwendete IP-Adresse speichert Mastodon bis zu 12 Monate lang. Ich arbeite aktuell daran, die Speicherdauer durch Mastodon deutlich zu reduzieren, aktuell ist sie jedoch durch Mastodon in dieser Form vorgegeben und damit auch für den Betrieb dieser Instanz erforderlich.
-
-Die Datenverarbeitung im Rahmen der Nutzung erfolgt dabei gemäß Art. 6 Abs. 1 Buchst. b) DSGVO im erforderlichen Umfang, um Ihnen die Nutzung Ihres Mastodon Accounts im Rahmen des Nutzungsverhältnisses zu ermöglichen.
-
-**4\. Nutzung von Cookies**
-
-Mastodon verwendet Cookies (kleine Textdateien, die Ihren Browser eindeutig unterscheidbar von anderen machen), um Ihnen Kern- und Komfortfunktionen bereitzustellen. Diese Cookies ermöglichen es u.a. der Instanz Ihren Browser wiederzuerkennen und, sofern Sie ein registriertes Konto haben, diesen mit Ihrem registrierten Konto zu verknüpfen.
-
-**5\. Datenverarbeitung bei der E-Mail-Kommunikation**
-
-Wenn Sie sich per E-Mail an die Administration wenden, wird Ihre E-Mail samt Absenderadresse und Inhalt verarbeitet und gespeichert, um die Kommunikation mit Ihnen abzuwickeln. Diese Informationen werden so lange gespeichert, wie es erforderlich ist, um dem Inhalt Ihres Anliegens gerecht zu werden. Sofern nicht die besondere Natur unserer Kommunikation es erfordert, werden die alten E-Mails in der Regel ein Jahr nach dem Empfang der letzten Rückmeldung von Ihnen und die Kontaktdaten nach zwei Jahren gelöscht.
-
-Die Speicherung und Nutzung der in den E-Mails enthaltenen Daten sowie Ihrer Kontaktdaten erfolgt im erforderlichen Umfang aufgrund meines berechtigten Interesses an der Abwicklung der Kommunikation mit Ihnen, soweit Ihre Interessen dem nicht entgegenstehen (Art. 6 Abs. 1 Buchst. f) DSGVO).
-
-**6\. Ihre Rechte**
-
-Sie haben das Recht, zu verlangen,
-
-*   dass ich Auskunft über die Sie betreffenden und von mir hier verarbeiteten personenbezogenen Daten gebe (Art. 15 DSGVO).
-*   dass ich unrichtige Daten berichtige (Art. 16 DSGVO).
-*   dass Ihre Daten gelöscht werden, wenn diese z.B. nicht mehr erforderlich für den ursprünglichen Zweck sind oder Streit darüber besteht, ob ich bestimmte Daten rechtmäßig verarbeite (Art. 17 DSGVO).
-*   die Einschränkung der Verarbeitung, wenn die Voraussetzungen des Art. 18 DSGVO vorliegen.
-*   die Sie betreffenden personenbezogenen Daten, die Sie mir bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten (Art. 20 DSGVO).
-*   _Insbesondere können Sie aus Gründen, die sich aus einer besonderen Situation ergeben, jederzeit gegen die Verarbeitung, die aufgrund von Art. 6 Abs. 1 Buchst. e) oder f) DSGVO erfolgt, Widerspruch einlegen (Art. 21 DSGVO)._
-
-Bezüglich aller genannten Rechte gilt dabei: Ein entsprechendes an mich per E-Mail oder schriftlich per Post (Adresse im Impressum) übermitteltes Verlangen genügt, um Ihre Rechte in Anspruch zu nehmen.
-
-**7\. Verantwortlicher im Sinne des Datenschutzrechts**
-
-Daniel Buck  
-Kirchenstr. 2  
-92693 Eslarn  
-Telefon: +49 156 78563777  
-E-Mail: webmaster@anzahcraft.de
-
-**8\. Zuständige Datenschutzaufsicht**
-
-Sollten Sie der Meinung sein, dass ich das geltende Datenschutzrecht verletze, dann können Sie sich jederzeit an eine Datenschutzaufsichtsbehörde wenden. Für mich im Kontext des Betriebs dieser Mastodon-Instanz zuständig ist das
-
-Der Bayerische Landesbeauftragte für den Datenschutz  
-Wagmüllerstraße 18  
-80538 München  
-https://www.datenschutz-bayern.de  
-poststelle@datenschutz-bayern.de
-
-Stand der hier bereitgestellten Informationen: 05.03.2020
-
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Die hier verfassten Texte</span> von [rollenspiel.social](https://github.com/AnzahCraft/rollenspiel.social) sind lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).  
-Beruht auf dem Werk unter [https://legal.social/terms](https://legal.social/terms).
+Diese Datenschutzinformation kann von Zeit zu Zeit an organisatorische oder technische Änderungen und neue gesetzliche Gegebenheiten angepasst werden. Sie ist jeweils in der aktuellen hier veröffentlichten Version gültig.
