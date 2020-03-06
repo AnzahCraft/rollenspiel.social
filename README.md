@@ -2,7 +2,7 @@ Hallo!
 
 Dieses Repository enthält Informationen über [rollenspiel.social](https://rollenspiel.social), eine Mastodon-Instanz für und von der Rollenspiel-Community [AnzahCraft](https://anzahcraft.de "AnzahCraft - Deine Rollenspiel Community").
 
-Du kannst unsere aktuelle block/silence-Liste in [blocked_instances.md](rollenspiel.social/blob/master/blocked_instances.md) und unsere aktuellen Server-Regeln in [about.md](rollenspiel.social/blob/master/about.md) einsehen. Unter [terms.md](rollenspiel.social/blob/master/terms.md) seht ihr die Datenschutzerklärung.
+Du kannst unsere aktuelle block/silence-Liste in [blocked_instances.md](/rollenspiel.social/blob/master/blocked_instances.md) und unsere aktuellen Server-Regeln in [about.md](/rollenspiel.social/blob/master/about.md) einsehen. Unter [terms.md](/rollenspiel.social/blob/master/terms.md) seht ihr die Datenschutzerklärung.
 Die Markdown dateiern werden aus den html Dateien erstellt, also kann die Darstellung ein wenig von dem Orginal abweichen.
 
 Wenn dich etwas an unserer Instanz stört, kannst du dich an [@Tealk](https://rollenspiel.social/@tealk) oder [@ZarJohn](https://rollenspiel.social/@zarjohn) per Mastodon oder E-Mail wenden. Wenn du möchtest das rollenspiel.social einen Domainblock hinzufügten? Dann schreib uns doch oder erstelle direkt einen Pull request.
