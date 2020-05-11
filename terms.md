@@ -1,6 +1,40 @@
+Hier gelangen Sie zu den [Nutzungsbedingungen](about/more).  
+Hier gelangen Sie zum [Impressum](#impressum).  
+Hier gelangen Sie zu den [Datenschutzinformation](#datenschutzinformation).
+
+## Impressum
+
+**Angaben gemäß § 5 TMG**
+
+Daniel Buck  
+Kirchenstr. 2  
+92693 Eslarn  
+Telefon: +49 156 78563777  
+E-Mail: [webmaster@anzahcraft.de](mailto:webmaster@anzahcraft.de)
+
+[OpenPGP (0xBAE7E85C445DB0AE)](https://keys.openpgp.org/vks/v1/by-fingerprint/972933C0E69DA946327490F5BAE7E85C445DB0AE)
+
+**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
+
+Daniel Buck  
+Kirchenstr. 2  
+92693 Eslarn
+
+**Haftung für Inhalte**
+
+Als Anbieter bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte auf dieser Mastodon-Instanz nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden ich umgehend entsprechende Schritte ergreifen.
+
+**Haftung für Links**
+
+Diese Instanz enthält Links zu externen Webseiten, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die verlinkten Inhalte ist stets die jeweilige Anbieterin oder Betreiberin der Seiten verantwortlich. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich umgehend die gebotenen Schritte ergreifen.
+
+**Urheberrecht**
+
+Die hier durch die Mastodon-User oder mich erstellten Inhalte unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen in der Regel der schriftlichen Zustimmung der jeweiligen Autorin bzw. Erstellerin. Downloads und Kopien sind grundsätzlich nur für den privaten, nicht kommerziellen Gebrauch gestattet. Sollten Sie auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich hinsichtlich derartiger Inhalte umgehend die notwendigen Schritte ergreifen.
+
 # Datenschutzinformation
 
-Im Folgenden informieren wir Dich gemäß der seit dem 25. Mai 2018 geltenden Datenschutzgrundverordnung der EU (DSGVO) über unseren Umgang mit Deinen personenbezogenen Daten  und welche Rechte Du uns gegenüber hast.
+Im Folgenden informieren wir Dich gemäß der seit dem 25\. Mai 2018 geltenden Datenschutzgrundverordnung der EU (DSGVO) über unseren Umgang mit Deinen personenbezogenen Daten und welche Rechte Du uns gegenüber hast.
 
 ## Verantwortlicher
 
@@ -9,6 +43,8 @@ Verantwortlich für die Verarbeitung von personenbezogenen Daten ist:
 Daniel Buck  
 Telefon: +49 156 78563777  
 E-Mail: [webmaster@anzahcraft.de](mailto:webmaster@anzahcraft.de)
+
+[OpenPGP (0xBAE7E85C445DB0AE)](https://keys.openpgp.org/vks/v1/by-fingerprint/972933C0E69DA946327490F5BAE7E85C445DB0AE)
 
 ## Anwendungen und Services
 
@@ -20,15 +56,15 @@ Bei der Nutzung unseres Angebots werden verschiedene Arten von personenbezogen D
 
 Das Datenschutzrecht gewährt Dir hinsichtlich der Verarbeitung Deiner personenbezogenen Daten folgende Rechte, deren genauen Wortlaut Du in den verlinkten Artikeln der DSGVO nachlesen kannst:
 
-- Auskunftsrecht gemäß [Art. 15 DSGVO](https://dsgvo-gesetz.de/art-15-dsgvo/)
-- Recht auf Berichtigung gemäß [Art. 16 DSGVO](https://dsgvo-gesetz.de/art-16-dsgvo/)
-- Recht auf Löschung gemäß [Art. 17 DSGVO](https://dsgvo-gesetz.de/art-17-dsgvo/)
-- Recht auf Einschränkung der Verarbeitung gemäß [Art. 18 DSGVO](https://dsgvo-gesetz.de/art-18-dsgvo/)
-- Recht auf Unterrichtung gemäß [Art. 19 DSGVO](https://dsgvo-gesetz.de/art-19-dsgvo/)
-- Recht auf Datenübertragbarkeit gemäß [Art. 20 DSGVO](https://dsgvo-gesetz.de/art-20-dsgvo/)
-- Recht auf Widerruf erteilter Einwilligungen gemäß [Art. 7 Abs. 3 DSGVO](https://dsgvo-gesetz.de/art-7-dsgvo/)
-- Wiederspruchsrecht gemäß [Art. 21 DSGVO](https://dsgvo-gesetz.de/art-21-dsgvo/)
-- Recht auf Beschwerde gemäß [Art. 77 DSGVO](https://dsgvo-gesetz.de/art-77-dsgvo/)
+*   Auskunftsrecht gemäß [Art. 15 DSGVO](https://dsgvo-gesetz.de/art-15-dsgvo/)
+*   Recht auf Berichtigung gemäß [Art. 16 DSGVO](https://dsgvo-gesetz.de/art-16-dsgvo/)
+*   Recht auf Löschung gemäß [Art. 17 DSGVO](https://dsgvo-gesetz.de/art-17-dsgvo/)
+*   Recht auf Einschränkung der Verarbeitung gemäß [Art. 18 DSGVO](https://dsgvo-gesetz.de/art-18-dsgvo/)
+*   Recht auf Unterrichtung gemäß [Art. 19 DSGVO](https://dsgvo-gesetz.de/art-19-dsgvo/)
+*   Recht auf Datenübertragbarkeit gemäß [Art. 20 DSGVO](https://dsgvo-gesetz.de/art-20-dsgvo/)
+*   Recht auf Widerruf erteilter Einwilligungen gemäß [Art. 7 Abs. 3DSGVO](https://dsgvo-gesetz.de/art-7-dsgvo/)
+*   Wiederspruchsrecht gemäß [Art. 21 DSGVO](https://dsgvo-gesetz.de/art-21-dsgvo/)
+*   Recht auf Beschwerde gemäß [Art. 77 DSGVO](https://dsgvo-gesetz.de/art-77-dsgvo/)
 
 Bitte beachte, dass die Wahrnehmung Deines Rechts auf Löschung, insbesondere Deiner Anmeldedaten, bedeuten kann, dass Du unser Angebot nicht mehr nutzen kannst.
 
@@ -43,7 +79,7 @@ Bei der Nutzung unserer Mastodon-Instanz werden verschiedene Arten von personenb
 ### Aufruf der Webanwendung und Browser-Zugriffsdaten
 
 **Zweck**: Wir stellen die Webanwendung zur Nutzung zur Verfügung, welche u.a. bestimmte Daten, z.B. Sprachinformationen, die der Browser mitsendet, zur passenden Darstellung nutzt.
- 
+
 **Personenbezogene Daten**: Übertragen werden u.a., je nach verwendetem Browser und dessen Einstellung: Datum und Uhrzeit des Zugriffes, ggf. Quelle/Verweis, von welcher Seite Du auf unsere jeweilige gelangst, verwendeter Browser, verwendetes Betriebssystem, Sprachinformation, Größe des Browserfensters, verwendete IP-Adresse.
 
 **Speicherdauer**: Diese Daten werden von uns nicht gespeichert, sondern nur bei Deinem Aufruf unserer Webanwendung verwendet.
@@ -74,7 +110,7 @@ Bei der Nutzung unserer Mastodon-Instanz werden verschiedene Arten von personenb
 
 **Zweck**: Freiwilliges weltweites Veröffentlichen weiterer Informationen über Dich.
 
-**Personenbezogene Daten**: Anzeigename, Biographie (Über mich), Profilinformationsfelder, Profilbild und Titelbild, wem Du folgst und wer Dir folgt. 
+**Personenbezogene Daten**: Anzeigename, Biographie (Über mich), Profilinformationsfelder, Profilbild und Titelbild, wem Du folgst und wer Dir folgt.
 
 **Speicherdauer**: Bis zur Löschung durch Dich oder des Accounts.
 
@@ -96,7 +132,7 @@ Bei der Nutzung unserer Mastodon-Instanz werden verschiedene Arten von personenb
 
 **Rechtsgrundlage**: Die Einwilligung durch Veröffentlichen von Beiträgen gem. Art. 6 Abs. 1 lit. a) DSGVO. Beim Boosten der Toots anderer bist Du als Nutzerin bzw. Nutzer des Kontos dafür verantwortlich, dass deren Datenschutzrechte eingehalten werden.
 
-**Empfänger**: Deine Beiträge und Interaktionen sind prinzipiell öffentlich, können aber durch die von Dir gewählten Optionen in der Sichtbarkeit bzw. Förderierung eingeschränkt werden. Die Optionen sind: öffentlich, öffentlich, aber nicht in der öffentlichen Timeline gelistet, nur für Follower oder nur an erwähnte User. 
+**Empfänger**: Deine Beiträge und Interaktionen sind prinzipiell öffentlich, können aber durch die von Dir gewählten Optionen in der Sichtbarkeit bzw. Förderierung eingeschränkt werden. Die Optionen sind: öffentlich, öffentlich, aber nicht in der öffentlichen Timeline gelistet, nur für Follower oder nur an erwähnte User.
 
 **Weitergabe an Dritte**: "Prinzipiell öffentlich" bedeutet, dass diese Inhalte weltweit an andere Server förderiert werden, deren Datenschutz und Verarbeitung dieser Daten wir nicht kontrollieren können. Microblogging ist prinzipiell öffentlich, für persönliche nicht-öffentliche Kommunikation müssen andere Mittel genutzt werden.
 
