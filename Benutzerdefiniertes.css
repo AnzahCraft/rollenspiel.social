@@ -1,15 +1,15 @@
 .compose-panel .compose-form {
-    background-image: url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-image   : url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
+    background-size    : contain;
+    background-repeat  : no-repeat;
     background-position: bottom;
-    margin-bottom: 5px;
+    margin-bottom      : 5px;
 }
 
 .page-header {
-    background-image: url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-image   : url(/system/site_uploads/files/000/000/001/original/jerboa_by_miyu_chan_x3_wenigRand.png?1566651022);
+    background-size    : contain;
+    background-repeat  : no-repeat;
     background-position: right bottom;
 }
 
@@ -21,7 +21,7 @@
 }
 
 .public-layout .grid-4 .column-2 {
-    background: #282c37;
+    background   : #282c37;
     border-radius: 4px;
 }
 
@@ -30,10 +30,10 @@
 .tabs-bar__wrapper,
 .columns-area__panels__pane--navigational .columns-area__panels__pane__inner,
 .columns-area__panels__pane--navigational .columns-area__panels__pane__inner .flex-spacer {
-    background-image: url(/system/site_uploads/files/000/000/002/original/Practice_by_Job_Menting.jpg?1575061207);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image     : url(/system/site_uploads/files/000/000/002/original/Practice_by_Job_Menting.jpg?1575061207);
+    background-size      : cover;
+    background-repeat    : no-repeat;
+    background-position  : center;
     background-attachment: fixed;
 }
 
