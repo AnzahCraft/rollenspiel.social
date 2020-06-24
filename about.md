@@ -47,7 +47,7 @@ Falls du versehentlich gegen unsere Regeln verstoßen hast, könnten wir versuch
 -----
 ## Federation status
 
-rollenspiel.social glaubt nicht an Zensur. Fediverse ist ein Netzwerkdienst und die Aussetzung der Fediverse mit einem anderen Server wird nur als letztes Mittel durchgeführt, wenn Inhalte von einem anderen Server nach deutschem Recht Probleme verursachen können, oder bei technischen Schwierigkeiten, feindlichen oder bösartigen Aktivitäten. Wenn wir aus einem, oder mehreren dieser Gründe die Fediverse aussetzen oder eine andere Instanz zum Schweigen bringen müssen, wird dies hier vermerkt. Haben wir deiner Meinung nach eine falsche Entscheidung getroffen? Kontaktiere uns!
+rollenspiel.social glaubt nicht an Zensur. Fediverse ist ein Netzwerkdienst und die Aussetzung der Fediverse mit einem anderen Server wird nur als letztes Mittel durchgeführt, wenn Inhalte von einem anderen Server nach deutschem Recht Probleme verursachen können, oder bei technischen Schwierigkeiten, feindlichen oder bösartigen Aktivitäten. Wenn wir aus einem, oder mehreren dieser Gründe die Fediverse aussetzen oder eine andere Instanz zum Schweigen bringen müssen, wird dies [hier](https://github.com/AnzahCraft/rollenspiel.social/blob/master/blocked_instances.md) vermerkt. Haben wir deiner Meinung nach eine falsche Entscheidung getroffen? Kontaktiere uns!
 
 -----
 ## Meldung eines Problems
