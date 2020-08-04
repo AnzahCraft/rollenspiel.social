@@ -18,6 +18,8 @@ Wir erlauben kein missbräuchliches oder störendes Verhalten von oder gegenübe
 
 Bevor du etwas veröffentlichst, denke darüber nach, ob dies etwas ist das du gerne in der öffentlichen Zeitleiste sehen möchtest (oder dass deine Mutter oder deine Kinder es sehen). Es gibt Einstellungen für die Sichtbarkeit, in welchen Zeitachsen dein Beitrag erscheint. Nutze auch die Schaltflächen CW um bestimmte Texte und Bilder in deinem Beitrag auszublenden.
 
+Wen du überwiegend automatische Beiträge veröffentlichst, kennzeichne deien Account bitte als Bot. Wenn es mehr als fünf Beiträge am Tag sind, veröffentliche deine Beiträge als Nicht gelistet(unlisted); damit in der lokalen Zeitleiste auch andere Beiträge zu finden sind.
+
 ### Diese Inhalte auf rollenspiel.social sind nicht erlaubt.
 
 * Sexuelle Darstellungen von Kindern
