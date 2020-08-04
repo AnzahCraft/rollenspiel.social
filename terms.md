@@ -10,9 +10,7 @@ Daniel Buck
 Kirchenstr. 2  
 92693 Eslarn  
 Telefon: +49 156 78563777  
-E-Mail: [webmaster@anzahcraft.de](mailto:webmaster@anzahcraft.de)
-
-[OpenPGP (0xBAE7E85C445DB0AE)](https://keys.openpgp.org/vks/v1/by-fingerprint/972933C0E69DA946327490F5BAE7E85C445DB0AE)
+E-Mail: [webmaster@rollenspiel.social](mailto:webmaster@rollenspiel.social)
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
 
@@ -42,9 +40,7 @@ Verantwortlich für die Verarbeitung von personenbezogenen Daten ist:
 
 Daniel Buck  
 Telefon: +49 156 78563777  
-E-Mail: [webmaster@anzahcraft.de](mailto:webmaster@anzahcraft.de)
-
-[OpenPGP (0xBAE7E85C445DB0AE)](https://keys.openpgp.org/vks/v1/by-fingerprint/972933C0E69DA946327490F5BAE7E85C445DB0AE)
+E-Mail: [webmaster@rollenspiel.social](mailto:webmaster@rollenspiel.social)
 
 ## Anwendungen und Services
 
