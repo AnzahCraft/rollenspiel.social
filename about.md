@@ -29,7 +29,7 @@ Wen du überwiegend automatische Beiträge veröffentlichst, kennzeichne deien A
 
 ### Inhalte, die aus der öffentlichen Zeitleiste entfernt werden:
 
-* Nicht gekennzeichnete oder automatisierte oder übermäßige Werbung
+* Nicht gekennzeichnete und/oder automatisierte und/oder übermäßige Werbung
 * Nicht gekennzeichnete pornographische und/oder sexueller Inhalte
 * Nicht gekennzeichnete Gewaltdarstellungen in Wort und Bild
 
