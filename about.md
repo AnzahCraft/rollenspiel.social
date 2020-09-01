@@ -32,6 +32,7 @@ Wen du überwiegend automatische Beiträge veröffentlichst, kennzeichne deien A
 * Nicht gekennzeichnete und/oder automatisierte und/oder übermäßige Werbung
 * Nicht gekennzeichnete pornographische und/oder sexueller Inhalte
 * Nicht gekennzeichnete Gewaltdarstellungen in Wort und Bild
+* Nicht gekennzeichnete religiöse Inhalte
 
 Wir werden auch alle Inhalte aus der öffentlichen Zeitleiste entfernen, die wir für hasserfüllt gegenüber bestimmten Einzelpersonen oder Gruppen halten. Inhalte, die dazu bestimmt sind Schaden zu verursachen oder anzuregen. Diese Richtlinie ist absichtlich vage formuliert, weil wir nicht beabsichtigen "Rechtsanwalt" zu spielen, um zu sagen was in Ordnung ist und was nicht. Eine gute Faustregel ist: Wenn du etwas sagen willst, von dem du denkst, dass es mit dieser Regel nicht übereinstimmt, solltest du es wahrscheinlich nicht sagen.![Smile](https://rollenspiel.social/system/custom_emojis/images/000/000/010/original/feb5a5cf823b1b21.png?1566511988)
 
