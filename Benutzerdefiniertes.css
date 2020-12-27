@@ -16,7 +16,9 @@
 /*.columns-area__panels__pane--compositional .columns-area__panels__pane__inner,*/
 .columns-area__panels__pane--navigational .columns-area__panels__pane__inner .navigation-panel,
 .public-layout .footer,
-.columns-area__panels__pane__inner .getting-started__footer {
+.columns-area__panels__pane__inner .getting-started__footer,
+.endorsements-widget.trends-widget,
+.getting-started__trends {
     background: rgba(0, 0, 0, 0.7);
 }
 
