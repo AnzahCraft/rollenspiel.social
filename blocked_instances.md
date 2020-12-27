@@ -26,6 +26,13 @@ Blockierte Instanzen
 | kiwifarms.cc | suspended | Diskriminierung |
 | humblr.social | silenced | massive Menge an nicht markiertem NSFW-Inhalt |
 | freefedifollowers.ga | suspended | follower spam |
+| gab.io | suspended | Diskriminierung, Rassismus, "free speech" |
+| gabble.xyz | suspended | Diskriminierung, Rassismus, "free speech" |
+| gab.polaris-1.work | suspended | Diskriminierung, Rassismus, "free speech" |
+| gabfed.com | suspended | Diskriminierung, Rassismus, "free speech" |
+| not-develop.gab.com | suspended | Diskriminierung, Rassismus, "free speech" |
+| develop.gab.com | suspended | Diskriminierung, Rassismus, "free speech" |
+| ekrem.develop.gab.com | suspended | Diskriminierung, Rassismus, "free speech" |
 
 
 ### Footnotes
