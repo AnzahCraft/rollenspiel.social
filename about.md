@@ -36,7 +36,7 @@ Wen du überwiegend automatische Beiträge veröffentlichst, kennzeichne deien A
 
 Wir werden auch alle Inhalte aus der öffentlichen Zeitleiste entfernen, die wir für hasserfüllt gegenüber bestimmten Einzelpersonen oder Gruppen halten. Inhalte, die dazu bestimmt sind Schaden zu verursachen oder anzuregen. Diese Richtlinie ist absichtlich vage formuliert, weil wir nicht beabsichtigen "Rechtsanwalt" zu spielen, um zu sagen was in Ordnung ist und was nicht. Eine gute Faustregel ist: Wenn du etwas sagen willst, von dem du denkst, dass es mit dieser Regel nicht übereinstimmt, solltest du es wahrscheinlich nicht sagen.![Smile](https://rollenspiel.social/system/custom_emojis/images/000/000/010/original/feb5a5cf823b1b21.png?1566511988)
 
-Bitte melde Verhalten, das dich stört. Das schließt Verhalten von anderen Instanzen mit ein - wir sind sehr gerne bereit, mit ingoranten Instanzen die Verbindung zu unterbrechen. Die Rohform sowie die Liste der blockierten Instanzen findest du auf unserem [Github-Repository](https://github.com/AnzahCraft/rollenspiel.social).
+Bitte melde Verhalten, das dich stört. Das schließt Verhalten von anderen Instanzen mit ein - wir sind sehr gerne bereit, mit ingoranten Instanzen die Verbindung zu unterbrechen. Die Rohform sowie die Liste der blockierten Instanzen findest du auf unserem [Github-Repository](https://github.com/RollenspielMonster/rollenspiel.social).
 
 **Diese Richtlinien sind kein juristisches Dokument, sie sind hier, um dir einen Einblick in unsere Moderationsrichtlinien zu geben. Die endgültige Auslegung obliegt der Verwaltung von rollenspiel-social. Die Verwaltung behält sich das Recht vor, die Zugriffsberechtigungen eines Benutzers jederzeit und aus beliebigem Grund zu widerrufen, sofern dies nicht gesetzlich vorgeschrieben ist.**
 
@@ -50,7 +50,7 @@ Falls du versehentlich gegen unsere Regeln verstoßen hast, könnten wir versuch
 -----
 ## Federation status
 
-rollenspiel.social glaubt nicht an Zensur. Fediverse ist ein Netzwerkdienst und die Aussetzung der Fediverse mit einem anderen Server wird nur als letztes Mittel durchgeführt, wenn Inhalte von einem anderen Server nach deutschem Recht Probleme verursachen können, oder bei technischen Schwierigkeiten, feindlichen oder bösartigen Aktivitäten. Wenn wir aus einem, oder mehreren dieser Gründe die Fediverse aussetzen oder eine andere Instanz zum Schweigen bringen müssen, wird dies [hier](https://github.com/AnzahCraft/rollenspiel.social/blob/master/blocked_instances.md) vermerkt. Haben wir deiner Meinung nach eine falsche Entscheidung getroffen? Kontaktiere uns!
+rollenspiel.social glaubt nicht an Zensur. Fediverse ist ein Netzwerkdienst und die Aussetzung der Fediverse mit einem anderen Server wird nur als letztes Mittel durchgeführt, wenn Inhalte von einem anderen Server nach deutschem Recht Probleme verursachen können, oder bei technischen Schwierigkeiten, feindlichen oder bösartigen Aktivitäten. Wenn wir aus einem, oder mehreren dieser Gründe die Fediverse aussetzen oder eine andere Instanz zum Schweigen bringen müssen, wird dies [hier](https://github.com/RollenspielMonster/rollenspiel.social/blob/master/blocked_instances.md) vermerkt. Haben wir deiner Meinung nach eine falsche Entscheidung getroffen? Kontaktiere uns!
 
 -----
 ## Meldung eines Problems
